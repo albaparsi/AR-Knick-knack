@@ -55,7 +55,7 @@ The application is built in Unity with AR support (using Vuforia framework) and 
     - Updates the weather TextMeshPro on one face of the cube.
   - `TimeDisplay.cs`  
     - Reads the system time at a regular interval.
-    - Formats it (e.g., `hh:mm tt`) and updates the time TextMeshPro on another face.
+    - Formats it and updates the time TextMeshPro on another face.
 
 ### Data and Libraries
 
