@@ -40,6 +40,12 @@ The visual design tries to balance a playful “souvenir” feel with clean, rea
 
 ---
 
+## Demo Video
+
+https://github.com/albaparsi/AR-Knick-knack/blob/main/vr%20video%20-%20demo.mov
+
+---
+
 ## Process: Implementation and Code Structure
 
 The application is built in Unity with AR support (using Vuforia framework) and C# scripts.
