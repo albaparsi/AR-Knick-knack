@@ -36,7 +36,7 @@ The visual design tries to balance a playful “souvenir” feel with clean, rea
 
 ![NYC Knickknack AR View 3](ss3.png)
 
-![NYC Knickknack AR View 4](ss4.png)
+![NYC Knickknack AR View 4](ss1.png)
 
 ---
 
