@@ -26,10 +26,17 @@ Some of these models were created or edited in Blender, then imported into Unity
 
 The visual design tries to balance a playful “souvenir” feel with clean, readable text and simple materials so that the scene doesn’t feel cluttered.
 
-> **Screenshot placeholders (replace with actual images):**
-> - `![NYC Knickknack in AR](path/to/screenshot1.png)` – full AR view of the knickknack.
-> - `![Empire State Building and Taxi](path/to/screenshot2.png)` – close‑up of the skyline and taxi.
-> - `![Weather, Time, and Location Faces](path/to/screenshot3.png)` – cube faces with text.
+## Screenshots
+
+### AR Experience Views
+
+![NYC Knickknack AR View 1](ss1.png)
+
+![NYC Knickknack AR View 2](ss2.png)
+
+![NYC Knickknack AR View 3](ss3.png)
+
+![NYC Knickknack AR View 4](ss4.png)
 
 ---
 
