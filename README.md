@@ -44,6 +44,8 @@ The visual design tries to balance a playful “souvenir” feel with clean, rea
 
 https://github.com/albaparsi/AR-Knick-knack/blob/main/vr%20video%20-%20demo.mov
 
+the video needs to be downloaded. 
+
 ---
 
 ## Process: Implementation and Code Structure
